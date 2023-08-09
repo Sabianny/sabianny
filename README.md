@@ -1,7 +1,7 @@
 ### Boas vindas ao meo perfil 🖤
 
 Meo nonme e sabianny 
-- estou estudando en Alura.
+- estou estudando en [Alura](https://.alura.com.br)
 - estou me desenvolvendo na liguagem javaScrispt
 - utilizo esse espaço para organizaçao e compartilhamemto dos meos projetos desenvolvidos
 
@@ -10,6 +10,10 @@ Meo nonme e sabianny
   sabianny.campos@escola.pr.gov.br
 
   @soysabi_15
-  
+
+
+![](https://media.tenor.com/IX3ZyB3lxKoAAAAC/kuromi-sanrio.gif)
+
+
 
 
