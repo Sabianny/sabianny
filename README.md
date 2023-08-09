@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meo perfil 🖤
 
-<!--
-**Sabianny/sabianny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meo nonme e sabianny 
+- estou estudando en Alura.
+- estou me desenvolvendo na liguagem javaScrispt
+- utilizo esse espaço para organizaçao e compartilhamemto dos meos projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### voce entrar em contato comigo 📧.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  sabianny.campos@escola.pr.gov.br
+
+  @soysabi_15
+  
+
+
